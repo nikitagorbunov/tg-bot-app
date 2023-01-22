@@ -1,0 +1,26 @@
+{
+  "name": "tg-bot-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikitagorbunov/tg-bot-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikitagorbunov/tg-bot-app/issues"
+  },
+  "homepage": "https://github.com/nikitagorbunov/tg-bot-app#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
